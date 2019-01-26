@@ -16,6 +16,7 @@
 
 拙い部分、粗削りな部分があるかとは思います。
 Discordサーバーにて、ご意見、ご感想をいただく窓口を設けました。
+
 https://discord.gg/8ufPpJ9
 
 お気軽にご参加ください。
@@ -45,9 +46,11 @@ https://discord.gg/8ufPpJ9
 
 ## 東北姉妹のキャラクターライセンスについて
 こちらを利用しました。
+
 https://zunko.jp/license/login.php
 
 参考
+
 https://zunko.jp/guideline.html
 
 （様々なケースがありますので、ご検討の際は各窓口へお問い合わせください。）
@@ -55,6 +58,7 @@ https://zunko.jp/guideline.html
 
 ## ソフトウェアとしてのVOICEROIDのライセンスについて
 東北きりたんさん、東北イタコさんについては、こちらを利用しました。
+
 https://www.ah-soft.com/licensee/voice_individual.html
 
 東北ずん子さんについては、上記のライセンスが利用できませんでした。
